@@ -1,6 +1,6 @@
 ## 介绍
 
-PegBoard 是一个本地的轻量数字白板软件，它可以帮助你整理信息，梳理思路。 [下载地址]https://wocai.de/pegboard
+PegBoard 是一个本地的轻量数字白板软件，它可以帮助你整理信息，梳理思路。 [下载地址](https://wocai.de/pegboard)
 
 
 它有几个主要特性：
